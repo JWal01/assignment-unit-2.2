@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// variable number is created with the number value 1
+// The ++ is used to increment the variable plus 1 which gets it to 2.
+// the if statment will check if if the variable 2 is greater than or equal to 2.
+//the conditon is true so the console will log 'yes'. 
 
 //CODE
 /*
@@ -45,11 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
+// The name variable name is created with the value 'Dane'.
+// The if statement is asking if the value of name is equal to the value 'Mary'.
+// If true the console will log 'Hi, Mary!' , if false the console will log 'How do you do?'
+//Statement is falso so console will log 'How do you do?'
 // 
-// 
-// 
-//
-
 //CODE
 /*
 let secret;
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// variable secret is created outside the if statement. variable code is created with value 123.
+// if statement is asking if the value of code equals 123 the vaule of secret is 'super' and the code = 123 mulplied by 2.
+// if statment asks if 246 > 250 it is not so 
+//console will log 'super
 
 //CODE
 /*
